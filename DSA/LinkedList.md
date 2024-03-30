@@ -1,9 +1,16 @@
 ![[LinkedList.png]]
 
-Use Cases 
+### Use Cases 
 * Linked Lists are often the underlying data structure for a stack or queue.
 * You can implement a Least Recently Used cache using a linked list. 
 * Hash tables often use linked lists to handle collisions. 
+### Time Complexity
+* prepend/append: O(1)
+* Insertion in the middle: O(n)
+* Deletion from the ends: O(1)
+* Deletion from the middle: O(n)
+* Get head/tail: O(1)
+* Get in general: O(n)
 
 ```js
 class LinkedList {
