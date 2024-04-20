@@ -1,4 +1,4 @@
-### Vanilla JS 
+### JavaScript 
 #### [[Dates & times]]
 #### [[Iteration]]
 * [[Generators]]
@@ -8,12 +8,5 @@
 #### [[Object Oriented Programming]]
 *  [[Prototype]]
 * [[Class]]
-### JS in Web
-#### [[DOM]]
-* [[Canvas]]
-#### [[Browser APIs]]
 
-### JS in Backend
-#### [[Node]]
-### [[JS Tooling]]
-#### [[Vite]]
+
